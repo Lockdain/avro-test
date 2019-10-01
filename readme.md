@@ -1,0 +1,1 @@
+To compile avro schema use maven 'generate-sources' task .
